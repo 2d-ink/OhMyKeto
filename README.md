@@ -1,6 +1,7 @@
 ![Oh My Keto](image/ohmyketo-logo.jpg)
 
-# Oh My Keto Click here [Keto](https://dmudy.github.io/OhMyKeto/index.html)
+# Oh My Keto 
+* Click here [Keto](https://dmudy.github.io/OhMyKeto/index.html)
 ## Objective
 * Demonstrate our knowledge of frontend web development
 
